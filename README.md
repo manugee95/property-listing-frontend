@@ -73,7 +73,4 @@ Ensure the API endpoints in the app match the mock server's configuration.
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to use and customize this application as needed. Happy coding!
 
